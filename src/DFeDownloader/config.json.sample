@@ -1,0 +1,8 @@
+{
+  "Empresa": "Nome da empresa",
+  "CNPJ": "CNPJ da empresa",
+  "Password": "senha do certificado",
+  "UF": "codigo 2 digitos do estado",
+  "XmlFolder": "c:\\temp\\xml\\"
+  "LastNSU": "000000000000000"
+}
